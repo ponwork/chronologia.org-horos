@@ -20,10 +20,10 @@
 
 1) Архив [**zodiak02.zip**](https://chronologia.org/zodiak02.zip) с программой **horos.exe** ([https://chronologia.org/horos.html](https://chronologia.org/horos.html))
 
-zodiac.ARJ		MD5 = 9e8e92018e1d530c8c886815df8acb37
-zodiac.zip		MD5 = a207c77c068e3272e1d65f1c296fd2f7
-zodiak02.rar	MD5 = 55f9c69c88619005cec927ce57cb89dd
-zodiak02.zip	MD5 = 22c7bd745c6e1c0c63d2bb4ce9287a66
+* zodiac.ARJ		MD5 = 9e8e92018e1d530c8c886815df8acb37
+* zodiac.zip		MD5 = a207c77c068e3272e1d65f1c296fd2f7
+* zodiak02.rar	MD5 = 55f9c69c88619005cec927ce57cb89dd
+* zodiak02.zip	MD5 = 22c7bd745c6e1c0c63d2bb4ce9287a66
 
 2) 
 3)
