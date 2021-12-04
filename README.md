@@ -10,7 +10,7 @@
 
 - [Lurkmore - Фоменко](https://lurkmore.to/%D0%A4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE)
 
-Мое особенное внимание привлекла программа [**horos.exe**](https://chronologia.org/horos.html ), которая служит основным источником проверки точности датировок при изучении древних гороскопов (например в книге ["НОВАЯ ХРОНОЛОГИЯ ЕГИПТА"](https://chronologia.org/bibliography.html))
+Мое особое внимание привлекла программа [**horos.exe**](https://chronologia.org/horos.html ), которая служит основным источником проверки точности датировок при изучении древних гороскопов (например в книге ["НОВАЯ ХРОНОЛОГИЯ ЕГИПТА"](https://chronologia.org/bibliography.html))
 
 В итоге я решил проверить работоспособность данной программы и точность ее результатов. В качестве примера, я взял выдержку из книги "Новая хронология Египта" (ссылка на которую указана на странице с программой), а именно разбор [Дендерского Зодиака](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA)
 
@@ -18,7 +18,13 @@
 
 ## Исходные данные для проверки:
 
-1) Архив с программой horos.exe (с официального сайта)
+1) Архив [**zodiak02.zip**](https://chronologia.org/zodiak02.zip) с программой **horos.exe** ([https://chronologia.org/horos.html](https://chronologia.org/horos.html))
+
+zodiac.ARJ		MD5 = 9e8e92018e1d530c8c886815df8acb37
+zodiac.zip		MD5 = a207c77c068e3272e1d65f1c296fd2f7
+zodiak02.rar	MD5 = 55f9c69c88619005cec927ce57cb89dd
+zodiak02.zip	MD5 = 22c7bd745c6e1c0c63d2bb4ce9287a66
+
 2) 
 3)
 
