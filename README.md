@@ -56,6 +56,8 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
 
 Читателю предлагается поверить наслово, что программа **horos.exe** имеет хоть какое-то отношение к расчету датировок.
 
+![source-code-or-gtfo.jpg](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/source-code-or-gtfo.jpg)
+
 На этом исследование можно завершить, но я все таки решил проверить работу **horos.exe**, используя различные входные данные и оценить степень правдоподобности как с выводами авторов "Новой Хронологии", так и с независимыми источниками.
 
 ## Проверка. Этап 2. Примеры работы программы
