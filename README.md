@@ -1,4 +1,4 @@
-# Анализ программы horos.exe расположенной на https://chronologia.org/horos.html 
+# Анализ программы horos.exe (https://chronologia.org/horos.html)
 
 ## Для чего это все:
 
@@ -25,8 +25,10 @@
 * [**zodiak02.rar**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/zodiak02.rar) MD5 = 55f9c69c88619005cec927ce57cb89dd
 * [**zodiak02.zip**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/zodiak02.zip) MD5 = 22c7bd745c6e1c0c63d2bb4ce9287a66
 
-2) 
-3)
+2) книга ["Новая хронология Египта"](https://chronologia.org/nx_egypt/index.html) Г.В.Носовский и А.Т.Фоменко. Исследования 2000-2001 годов.
+3) Дендерский Зодиак [Zodiac of Dendera](https://collections.louvre.fr/en/ark:/53355/cl010028871)
+4) Описание символов Дендерского Зодиака [The Dendera zodiacs as narratives of the myth of Osiris, Isis, and the child
+Horus]() [Gyula Priskin, Eötvös Loránd University, 2015](http://www.enim-egyptologie.fr/index.php?page=enim-8&n=9)
 
 
 https://takemeback.to/astronomy/04-December-2021
