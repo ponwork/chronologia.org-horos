@@ -27,6 +27,8 @@
 
 1) Архив [**zodiak02.zip**](https://chronologia.org/zodiak02.zip) с программой **horos.exe** ([https://chronologia.org/horos.html](https://chronologia.org/horos.html))
 
+![horos-web-info](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/horos-web-info.jpg)
+
    * [**zodiac.ARJ**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/zodiac.ARJ) MD5 = 9e8e92018e1d530c8c886815df8acb37
    * [**zodiac.zip**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/zodiac.zip) MD5 = a207c77c068e3272e1d65f1c296fd2f7
    * [**zodiak02.rar**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/zodiak02.rar) MD5 = 55f9c69c88619005cec927ce57cb89dd
