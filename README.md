@@ -20,6 +20,7 @@
 ![README.TXT-04.jpg](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/README.TXT-04.jpg)
 
 В итоге я решил проверить работоспособность данной программы и точность ее результатов. В качестве примера, я взял выдержку из книги [**"Новая хронология Египта"**](https://chronologia.org/nx_egypt/index.html) (ссылка на которую указана на странице с программой), а именно разбор [**Дендерского Зодиака**](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA)
+Оригинал в Лувре: [Zodiac of Dendera](https://collections.louvre.fr/en/ark:/53355/cl010028871)
 
 ![Dendera zodiac](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/Dendera-and-the-Temple-of-Hathor.jpg)
 
@@ -40,10 +41,7 @@
 
 ![chronologia-dendera.jpg](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/chronologia-dendera.jpg)
 
-3) Дендерский Зодиак [Zodiac of Dendera](https://collections.louvre.fr/en/ark:/53355/cl010028871)
-4) Описание символов и значения Дендерского Зодиака [The Dendera zodiacs as narratives of the myth of Osiris, Isis, and the child
-Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM8_p133-185.pdf) ([Gyula Priskin, Eötvös Loránd University, 2015](http://www.enim-egyptologie.fr/index.php?page=enim-8&n=9))
-5) Дистрибутив Windows XP 
+3) Дистрибутив Windows XP 
    - файл: **ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso** 
    - MD5 = 44143210b620491eb1d21efc0b1a630a
    - примечение: установка выполнена в виде виртуальной машины VirtualBox, активация ОС произведена по телефону. Спасибо Microsoft!
@@ -99,7 +97,7 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
 
 ![result-fn](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/result-fn.jpg)
 
-Как видно из результата, минимальное "отклонение от лучших точек" дает дата **"11 Марта 1422"** (**4.4 deg**) года , а не **"20 Марта 1185"** (**8.5 deg**)года, как указано в книге.
+Как видно из результата, минимальное "отклонение от лучших точек" дает дата **"11 Марта 1422"** (**4.4 deg**) года , а не **"20 Марта 1185"** (**8.5 deg**) года, как указано в книге.
 
 Таким образом результаты программы **horos.exe** противоречат выводам указанным в книге "Новая хронология Египта".
 
