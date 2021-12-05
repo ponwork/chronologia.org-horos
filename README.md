@@ -117,13 +117,15 @@
 
 и произвести расчет даты рождения Фоменко А.Т. используя гелиоцентрическую карту звездного неба на 13 марта 1945 и программу **horos.exe**.
 
-Расположение звезд и планет предлагается взять с сайта [https://takemeback.to/astronomy/13-March-1945](https://takemeback.to/astronomy/13-March-1945)
+Расположение звезд и планет берем с сайта [https://takemeback.to/astronomy/13-March-1945](https://takemeback.to/astronomy/13-March-1945)
 
 ![zodiac-1945-03-13](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/zodiac-1945-03-13.jpg)
 
+[Файл данных](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/INPUT-1945-03-13.TXT) для программы **horos.exe** таким образом получается следующим:
 
+![input-1945-03-13](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/input-1945-03-13.jpg)
 
-
+Примечание: положение Луны явно не указано, поэтому берем его равным 0-12 999, как указано в описании к программе.
 
 
 
