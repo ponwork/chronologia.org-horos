@@ -58,6 +58,7 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
    - "Расчет Луны основан на программе:" [**ELP 2000-85 - A semi-analytical lunar ephemeris adequate for historical times**](https://adsabs.harvard.edu/full/1988A%26A...190..342C)   [(**копия**)](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/1988A%2BA___190__342C.pdf)
 
 Читателю предлагается поверить наслово, что программа **horos.exe** имеет хоть какое-то отношение к расчету датировок.
+
 Как говорится: **Source Code or GTFO**
 
 На этом исследование можно завершить, но я все таки решил проверить работу **horos.exe**, используя различные входные данные и оценить степень правдоподобности результатов как с выводами самих авторов "Новой Хронологии", так и с независимыми источниками.
