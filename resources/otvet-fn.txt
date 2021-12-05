@@ -1,0 +1,682 @@
+ ======= CONSTELLATION    SCALE  ===================
+       12=0-ARIES-1-TAURUS-2-GEMINI-3
+       3-CANCER-4-LEO-5-VIRGO-6
+       6-LIBRA-7-SCORPIO-8-SAGITTARIUS-9
+       9-CAPRICORN-10-AQUARIUS-11-PISCES-12=0
+    
+ --- HOROSCOPE ACCORDING TO CONSTELLATIONS SCALE: --
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+ from: 10.5    5.5    5.0     2.0     9.0   11.0    10.0
+   to:  0.5    7.5    7.0     4.0    10.0    1.0    12.0
+ point:11.5    6.5    5.5     3.5     9.5     .5    11.0
+ ===================================================
+  
+ == CONSTELLATIONS ON ECLIPTIC J2000: ===============
+   
+ <26deg> ARIES <51deg> TAURUS <89deg> GEMINI <117deg>
+ <118deg> CANCER <143deg> LEO <174deg> VIRGO <215deg>
+ <215deg> LIBRA <236deg> SCORPIO <266deg>
+ <266deg> SAGITTARIUS <301deg> CAPRICORN <329deg>
+ <329deg> AQUARIUS <346deg> PISCES <26deg>
+  
+ ---- HOROSCOPE ON ECLIPTIC J2000 (IN DEGREES): -----
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+ from: 338.1  195.1  174.6    89.6   301.6  346.6   329.6
+ to:    39.1  251.6  236.6   143.6   329.6   51.6    26.6
+ ====================================================
+   
+   
+            RESULTS OF CALCULATIONS:
+         (with dopusk =  5.0 degrees)
+   
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1594736
+ YEAR/MONTH/DAY=        -346/          2/         24
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        3.7  198.1  189.5   115.5   306.9   49.5   341.8
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   10.8 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1594737
+ YEAR/MONTH/DAY=        -346/          2/         25
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        4.7  210.3  189.4   115.5   307.6   50.4   343.3
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    8.8 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1594738
+ YEAR/MONTH/DAY=        -346/          2/         26
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        5.7  222.4  189.3   115.5   308.4   51.3   344.9
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    6.7 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1594739
+ YEAR/MONTH/DAY=        -346/          2/         27
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        6.7  234.3  189.3   115.5   309.1   52.2   346.5
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    7.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1594740
+ YEAR/MONTH/DAY=        -346/          2/         28
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        7.7  246.2  189.2   115.5   309.9   53.1   348.1
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    9.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1659379
+ YEAR/MONTH/DAY=        -169/          2/         18
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      356.4  197.6  192.3    86.7   330.4    9.6   328.8
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   21.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1659380
+ YEAR/MONTH/DAY=        -169/          2/         19
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      357.4  209.9  192.2    86.8   331.2   10.8   329.8
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   19.0 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1659381
+ YEAR/MONTH/DAY=        -169/          2/         20
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      358.4  221.9  192.1    86.9   332.0   12.1   331.0
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   16.9 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1659382
+ YEAR/MONTH/DAY=        -169/          2/         21
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      359.4  233.9  192.1    87.0   332.7   13.3   332.1
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   17.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1659383
+ YEAR/MONTH/DAY=        -169/          2/         22
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+         .4  245.7  192.0    87.1   333.5   14.5   333.3
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1767874
+ YEAR/MONTH/DAY=         128/          3/          5
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       10.1  199.4  222.5   101.5   316.7  354.0      .7
+  
+ DIFFERENT order of planets: 4 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   21.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1767875
+ YEAR/MONTH/DAY=         128/          3/          6
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       11.1  213.6  222.5   101.6   317.5  355.2     2.6
+  
+ DIFFERENT order of planets: 4 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   19.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1767876
+ YEAR/MONTH/DAY=         128/          3/          7
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       12.1  228.0  222.4   101.7   318.2  356.4     4.6
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.2 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1767877
+ YEAR/MONTH/DAY=         128/          3/          8
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       13.0  242.5  222.3   101.7   319.0  357.7     6.5
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   20.6 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1842025
+ YEAR/MONTH/DAY=         331/          3/         11
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       14.0  201.1  182.3   143.3   298.5  356.1   356.1
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1842026
+ YEAR/MONTH/DAY=         331/          3/         12
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       15.0  215.9  182.2   143.3   299.2  357.3   357.9
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   16.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1842027
+ YEAR/MONTH/DAY=         331/          3/         13
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       15.9  230.7  182.2   143.3   299.9  358.6   359.6
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   15.5 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1842028
+ YEAR/MONTH/DAY=         331/          3/         14
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       16.9  245.4  182.1   143.2   300.6  359.8     1.4
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   17.7 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1854428
+ YEAR/MONTH/DAY=         365/          2/         23
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      358.5  191.8  240.2    93.1   310.2   16.5   343.7
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   22.3 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1854429
+ YEAR/MONTH/DAY=         365/          2/         24
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      359.5  207.0  240.1    93.1   311.0   17.7   345.5
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   19.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1854430
+ YEAR/MONTH/DAY=         365/          2/         25
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+         .4  221.9  240.1    93.2   311.8   19.0   347.2
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   16.8 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1854431
+ YEAR/MONTH/DAY=         365/          2/         26
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        1.4  236.4  240.1    93.3   312.5   20.2   349.0
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   17.5 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1854432
+ YEAR/MONTH/DAY=         365/          2/         27
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        2.4  250.3  240.1    93.3   313.3   21.4   350.8
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   19.3 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1884729
+ YEAR/MONTH/DAY=         448/          2/          9
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      343.2  201.6  173.5    91.4   332.3  345.4   349.7
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   26.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1884730
+ YEAR/MONTH/DAY=         448/          2/         10
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      344.2  214.1  173.4    91.4   333.1  346.6   348.9
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   24.0 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     1884731
+ YEAR/MONTH/DAY=         448/          2/         11
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      345.2  226.9  173.4    91.4   333.9  347.9   348.0
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   22.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2079804
+ YEAR/MONTH/DAY=         982/          3/         12
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       11.1  190.3  219.2   100.5   333.0   24.7   352.2
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.9 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2079805
+ YEAR/MONTH/DAY=         982/          3/         13
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       12.1  203.1  219.1   100.6   333.8   25.9   353.8
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   17.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153928
+ YEAR/MONTH/DAY=        1185/          2/         18
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      348.2  193.7  180.2   144.3   296.9  353.2   327.6
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   23.2 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153929
+ YEAR/MONTH/DAY=        1185/          2/         19
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      349.2  206.0  180.2   144.2   297.6  354.5   327.6
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   21.0 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153930
+ YEAR/MONTH/DAY=        1185/          2/         20
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      350.2  218.1  180.1   144.1   298.4  355.7   327.6
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.8 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153931
+ YEAR/MONTH/DAY=        1185/          2/         21
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      351.2  230.0  180.0   144.0   299.1  357.0   327.8
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   17.8 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153932
+ YEAR/MONTH/DAY=        1185/          2/         22
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      352.2  241.8  179.9   143.9   299.8  358.2   328.0
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   19.0 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153933
+ YEAR/MONTH/DAY=        1185/          2/         23
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      353.2  253.6  179.8   143.8   300.6  359.5   328.3
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   20.2 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153956
+ YEAR/MONTH/DAY=        1185/          3/         18
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       16.0  202.1  178.1   142.1   317.7   28.0   351.5
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   11.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153957
+ YEAR/MONTH/DAY=        1185/          3/         19
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       17.0  214.3  178.0   142.1   318.4   29.2   352.9
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    9.9 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153958
+ YEAR/MONTH/DAY=        1185/          3/         20
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       17.9  226.3  177.9   142.1   319.2   30.5   354.4
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    8.5 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153959
+ YEAR/MONTH/DAY=        1185/          3/         21
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       18.9  238.1  177.9   142.0   319.9   31.7   355.9
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   10.5 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2153960
+ YEAR/MONTH/DAY=        1185/          3/         22
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       19.9  249.9  177.8   142.0   320.7   33.0   357.5
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   12.5 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2166360
+ YEAR/MONTH/DAY=        1219/          3/          4
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        1.5  196.7  237.3    92.1   327.7   45.0   339.9
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   20.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2166361
+ YEAR/MONTH/DAY=        1219/          3/          5
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        2.4  208.6  237.2    92.2   328.5   46.1   341.4
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.3 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2166362
+ YEAR/MONTH/DAY=        1219/          3/          6
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        3.4  220.6  237.2    92.2   329.3   47.2   343.0
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   16.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2166363
+ YEAR/MONTH/DAY=        1219/          3/          7
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        4.4  232.6  237.2    92.3   330.1   48.3   344.6
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   16.5 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2166364
+ YEAR/MONTH/DAY=        1219/          3/          8
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        5.4  244.9  237.1    92.4   330.9   49.4   346.2
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.1 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2240511
+ YEAR/MONTH/DAY=        1422/          3/          9
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        5.4  195.2  197.3   135.0   312.1   47.9   338.9
+  
+ DIFFERENT order of planets: 2 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    8.3 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2240512
+ YEAR/MONTH/DAY=        1422/          3/         10
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        6.4  207.4  197.2   134.9   312.9   49.0   340.2
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    6.3 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2240513
+ YEAR/MONTH/DAY=        1422/          3/         11
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        7.3  219.7  197.1   134.9   313.6   50.1   341.5
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    4.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2240514
+ YEAR/MONTH/DAY=        1422/          3/         12
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        8.3  232.1  197.0   134.8   314.4   51.2   342.8
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    4.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2240515
+ YEAR/MONTH/DAY=        1422/          3/         13
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+        9.3  244.8  197.0   134.8   315.1   52.4   344.2
+  
+ ORDER OF PLANETS IS THE SAME ++++++++++++++++++
+  
+ AVERAGE DISTANCE FROM BEST POINTS:    6.2 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2391709
+ YEAR/MONTH/DAY=        1836/          2/         22
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      347.3  193.6  217.2    98.2   329.1   22.9   326.2
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   22.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2391710
+ YEAR/MONTH/DAY=        1836/          2/         23
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      348.3  207.5  217.2    98.2   329.8   24.1   326.2
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   20.2 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2391711
+ YEAR/MONTH/DAY=        1836/          2/         24
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      349.3  221.5  217.1    98.2   330.6   25.3   326.3
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.0 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2391712
+ YEAR/MONTH/DAY=        1836/          2/         25
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      350.3  235.5  217.1    98.2   331.4   26.5   326.5
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   18.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2391713
+ YEAR/MONTH/DAY=        1836/          2/         26
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+      351.3  249.6  217.0    98.3   332.2   27.7   326.7
+  
+ DIFFERENT order of planets: 6 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   20.2 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2413648
+ YEAR/MONTH/DAY=        1896/          3/         17
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       10.8  194.7  229.7   120.6   321.1  344.1   352.5
+  
+ DIFFERENT order of planets: 4 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   21.0 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2413649
+ YEAR/MONTH/DAY=        1896/          3/         18
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       11.7  209.9  229.7   120.6   321.9  345.3   354.2
+  
+ DIFFERENT order of planets: 4 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   19.2 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2413650
+ YEAR/MONTH/DAY=        1896/          3/         19
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       12.7  224.9  229.6   120.6   322.7  346.6   355.9
+  
+ DIFFERENT order of planets: 4 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   17.3 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2413651
+ YEAR/MONTH/DAY=        1896/          3/         20
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       13.7  239.5  229.6   120.6   323.4  347.8   357.6
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   19.4 deg
+ ----------------------------------------
+ ----------------------------------------
+ PLANETS FIT THE HOROSCOPE AT JD:     2413652
+ YEAR/MONTH/DAY=        1896/          3/         21
+       Positions of planets on ecliptic J2000:
+        SUN   MOON  SATURN  JUPITER  MARS  VENUS   MERCURY
+       14.7  253.7  229.5   120.7   324.2  349.0   359.4
+  
+ DIFFERENT order of planets: 5 shifts
+  
+ AVERAGE DISTANCE FROM BEST POINTS:   21.7 deg
+ ----------------------------------------
+   
+            END OF CALCULATIONS.
