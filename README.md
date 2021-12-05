@@ -74,7 +74,9 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
 >ЕСЛИ ПЛАНЕТА НЕ УКАЗАНА В ГОРОСКОПЕ, ТО ЕЕ ГРАНИЦЫ НАДО ЗАДАТЬ ОТ 0 ДО 12,
 >А ТОЧКУ ПРИМЕРНОГО РАСПОЛОЖЕНИЯ - 999.
 
+Отсюда приходим к первому, самому простому тесту: заполним все входные данные как "неопределенные", т.е. 0-12 и 999
 
+В результате мы получим файл OTVET.TXT размером 131,5 Мб (2 739 383 строк) [**архив с файлом**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/otvet-full.txt.zip)
 
 
 https://takemeback.to/astronomy/04-December-2021
