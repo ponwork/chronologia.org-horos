@@ -51,8 +51,8 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
 
 В файле [**README.TXT**]() содержатся лишь упоминания следующих работ:
 
-   - "Расчет планет основан на программе:" [**Numerical expressions for precession formulae and mean elements for the Moon and the planets**](https://adsabs.harvard.edu/full/1994A%26A...282..663S)[копия](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/1994A%2BA___282__663S.pdf)
-   - "Расчет Луны основан на программе:" [**ELP 2000-85 - A semi-analytical lunar ephemeris adequate for historical times**](https://adsabs.harvard.edu/full/1988A%26A...190..342C)[копия](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/1988A%2BA___190__342C.pdf)
+   - "Расчет планет основан на программе:" [**Numerical expressions for precession formulae and mean elements for the Moon and the planets**](https://adsabs.harvard.edu/full/1994A%26A...282..663S)   [**копия**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/1994A%2BA___282__663S.pdf)
+   - "Расчет Луны основан на программе:" [**ELP 2000-85 - A semi-analytical lunar ephemeris adequate for historical times**](https://adsabs.harvard.edu/full/1988A%26A...190..342C)   [**копия**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/1988A%2BA___190__342C.pdf)
 
 Читателю предлагается поверить наслово, что программа **horos.exe** имеет хоть какое-то отношение к расчету датировок.
 
