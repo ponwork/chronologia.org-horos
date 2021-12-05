@@ -37,6 +37,9 @@
    * [**zodiak02.zip**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/zodiak02.zip) MD5 = 22c7bd745c6e1c0c63d2bb4ce9287a66
 
 2) Издание ["Новая хронология Египта"](https://chronologia.org/nx_egypt/index.html) Г.В.Носовский и А.Т.Фоменко. Исследования 2000-2001 годов.
+
+![chronologia-dendera.jpg](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/chronologia-dendera.jpg)
+
 3) Дендерский Зодиак [Zodiac of Dendera](https://collections.louvre.fr/en/ark:/53355/cl010028871)
 4) Описание символов и значения Дендерского Зодиака [The Dendera zodiacs as narratives of the myth of Osiris, Isis, and the child
 Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM8_p133-185.pdf) ([Gyula Priskin, Eötvös Loránd University, 2015](http://www.enim-egyptologie.fr/index.php?page=enim-8&n=9))
