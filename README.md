@@ -99,6 +99,13 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
 
 ![result-fn](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/result-fn.jpg)
 
+Как видно из результата, минимальное "отклонение от лучших точек" дает дата **"11 Марта 1422"** (**4.4 deg**) года , а не **"20 Марта 1185"** (**8.5 deg**)года, как указано в книге.
+
+Таким образом результаты программы **horos.exe** противоречат выводам указанным в книге "Новая хронология Египта".
+
+Отмечу также, что результат **"20 Марта 1185"** с отклонением в **8.5 deg** также присутвует в файле ["**otvet-fn.txt**"](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/otvet-fn.txt)
+
+
 
 
 
