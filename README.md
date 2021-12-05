@@ -19,8 +19,9 @@
 ![README.TXT-03.jpg](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/README.TXT-03.jpg)
 ![README.TXT-04.jpg](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/HOROS/README.TXT-04.jpg)
 
-В итоге я решил проверить работоспособность данной программы и точность ее результатов. В качестве примера, я взял выдержку из книги [**"Новая хронология Египта"**](https://chronologia.org/nx_egypt/index.html) (ссылка на которую указана на странице с программой), а именно разбор [**Дендерского Зодиака**](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA)
-Оригинал в Лувре: [Zodiac of Dendera](https://collections.louvre.fr/en/ark:/53355/cl010028871)
+В итоге я решил проверить работоспособность данной программы и точность ее результатов. В качестве примера, я взял выдержку из книги [**"Новая хронология Египта"**](https://chronologia.org/nx_egypt/index.html) (ссылка на которую указана на странице с программой), а именно разбор [**Дендерского Зодиака**](https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%B4%D0%B8%D0%B0%D0%BA).
+
+Оригинал на сайте Лувра: [Zodiac of Dendera](https://collections.louvre.fr/en/ark:/53355/cl010028871)
 
 ![Dendera zodiac](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/Dendera-and-the-Temple-of-Hathor.jpg)
 
