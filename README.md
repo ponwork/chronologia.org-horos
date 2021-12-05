@@ -127,6 +127,10 @@
 
 Примечание: положение Луны явно не указано, поэтому берем его равным 0-12 999, как указано в описании к программе.
 
+Результат работы **horos.exe**:
+
+![result-1945-03-13](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/result-1945-03-13.gif)
+
 
 
 
