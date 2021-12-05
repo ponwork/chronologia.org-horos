@@ -37,8 +37,8 @@
 4) Описание символов и значения Дендерского Зодиака [The Dendera zodiacs as narratives of the myth of Osiris, Isis, and the child
 Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM8_p133-185.pdf) ([Gyula Priskin, Eötvös Loránd University, 2015](http://www.enim-egyptologie.fr/index.php?page=enim-8&n=9))
 5) Дистрибутив Windows XP 
-- файл **ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso** 
-- MD5 = 44143210b620491eb1d21efc0b1a630a
-- примечение: установка выполнена в виде виртуальной машины VirtualBox, активация ОС произведена по телефону. Спасибо Microsoft!
+   - файл **ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso** 
+   - MD5 = 44143210b620491eb1d21efc0b1a630a
+   - примечение: установка выполнена в виде виртуальной машины VirtualBox, активация ОС произведена по телефону. Спасибо Microsoft!
 
 https://takemeback.to/astronomy/04-December-2021
