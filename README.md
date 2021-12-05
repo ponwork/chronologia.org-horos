@@ -76,7 +76,12 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
 
 Отсюда приходим к первому, самому простому тесту: заполним все входные данные как "неопределенные", т.е. 0-12 и 999
 
+![input-undefined](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/input-undefined.jpg)
+
 В результате мы получим файл OTVET.TXT размером 131,5 Мб (2 739 383 строк) [**архив с файлом**](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/otvet-full.txt.zip)
+
+Что примечательно, диапозон дат в файле начинается с **31 Декабря 501 д.н.э** и заканчивается **19 Декабря 1999 н.э.**
+
 
 
 https://takemeback.to/astronomy/04-December-2021
