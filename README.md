@@ -2,7 +2,7 @@
 
 ## Для чего это все:
 
-Где-то год-два назад я познакомился с так называемой **«Новой хронологией»** и, как и многие люди знакомые со школьным курсом Всемирной истории был удивлен выводами данной теории.
+Где-то год-два назад я познакомился с так называемой **«Новой хронологией»** и, как и многие люди знакомые со школьным курсом Всемирной истории, был удивлен выводами данной теории.
 
 Ознакомиться с теорией и ее выводами можно на официальном сайте [chronologia.org](https://chronologia.org/horos.html), а также на многочисленных интернет-ресурсах, включая:
 - [Wikipedia.org - Новая хронология (Фоменко)](https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F_%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_(%D0%A4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE));
@@ -36,7 +36,9 @@
 3) Дендерский Зодиак [Zodiac of Dendera](https://collections.louvre.fr/en/ark:/53355/cl010028871)
 4) Описание символов и значения Дендерского Зодиака [The Dendera zodiacs as narratives of the myth of Osiris, Isis, and the child
 Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM8_p133-185.pdf) ([Gyula Priskin, Eötvös Loránd University, 2015](http://www.enim-egyptologie.fr/index.php?page=enim-8&n=9))
-5) Дистрибутив Windows XP **ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso** MD5 = 44143210b620491eb1d21efc0b1a630a
-(установка выполнена в виде виртуальной машины VirtualBox, активация ОС произведена по телефону. Спасибо Microsoft!)
+5) Дистрибутив Windows XP 
+- файл **ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso** 
+- MD5 = 44143210b620491eb1d21efc0b1a630a
+- примечение: установка выполнена в виде виртуальной машины VirtualBox, активация ОС произведена по телефону. Спасибо Microsoft!
 
 https://takemeback.to/astronomy/04-December-2021
