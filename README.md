@@ -87,6 +87,29 @@ Horus](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/ENiM
 
 ## Проверка. Этап 3. Примеры работы программы. Вариант указанный в книге "Новая хронология Египта"
 
+Для быстрой проверки результатов работы программы **horos.exe** мной был написан скрипт [**horos-parser.py**](https://github.com/ponwork/chronologia.org-horos/blob/main/horos-parser.py) который:
+
+   - в качестве аргумента принимает файл-результат (если не указан, берет файл **OTVET.TXT** в диреткории со скриптом);
+   - считает количество решений;
+   - ищет все строки с указанием на то, что порядок планет не менялся (критерий, по которому отобран ответ в книге "Новая хронология Египта");
+   - создает словарь с номерами строк оригинального файла и соотвествующих им значениий "отклонения от лучших точек"
+   - выдает в качестве результата ответ с минимальным показателем "отклонения от лучших точек" (также критерий, указанный автором книги "Новая хронология Египта")
+
+В итоге, результат работы скрипта [**horos-parser.py**](https://github.com/ponwork/chronologia.org-horos/blob/main/horos-parser.py) над фалом результатов работы программы **horos.exe** с данными, взятыми из книги "Новая хронология Египта" (файл ["**otvet-fn.txt**"](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/otvet-fn.txt)) дает следующий результат:
+
+![result-fn](https://github.com/ponwork/chronologia.org-horos/blob/main/resources/result-fn.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 https://takemeback.to/astronomy/04-December-2021
