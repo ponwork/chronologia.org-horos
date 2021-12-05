@@ -45,8 +45,6 @@
 3) Дистрибутив Windows XP 
    - файл: **ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso** 
    - MD5 = 44143210b620491eb1d21efc0b1a630a
-   - Magnet Link: 
-      magnet:?xt=urn:btih:3ce2e6690a9f78ea778f49586eda19cea83929a1&dn=ru_windows_xp_professional_with_service_pack_3_x86_cd_x14-80484.iso&tr=http%3a%2f%2fbt2.t-ru.org%2fann%3fpk%3d100aabcc77a46499d9eeb1f0b1e078d6&tr=http%3a%2f%2fretracker.local%2fannounce
    - примечение: установка выполнена в виде виртуальной машины VirtualBox, активация ОС произведена по телефону. Спасибо Microsoft!
 
 ## Проверка. Этап 1. Алгоритмы
